@@ -6,8 +6,11 @@ Predicting Users Rating from Text Reviews.
 
 Here, we are builing a multinomial Naive Bayes Classifier from scratch to determine user ratings from text. Each review corresponds to 1 to 5 stars rating, where 1 being the worst rating and 5 being the best.
 
+# Multinomial Naive Bayes Classifier
+Read about the algorithm from [here](https://www.upgrad.com/blog/multinomial-naive-bayes-explained/)
+
 # Dataset
-The dataset for this problem is a subset of the Yelp dataset and has been obtained from https://www.yelp.com/dataset.
+The dataset for this problem is a subset of the Yelp dataset and has been obtained from [here](https://www.yelp.com/dataset).
 
 # Confusion Matrix
 
