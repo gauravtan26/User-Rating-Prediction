@@ -2,6 +2,14 @@
 Predicting Users Rating from Text Reviews. 
 
 
-![feedback-rating-scale-red-orange-260nw-1046547880](https://user-images.githubusercontent.com/65237445/145255759-fbf01ba7-d0b2-41c3-a310-3c565944c8c7.jpg)
+![Capture](https://user-images.githubusercontent.com/65237445/145256144-4f2d2d01-9261-498e-a024-499f38d67a12.PNG)
 
-Here, we are builing a multinomial Naive Bayes Classifier from scratch to determine user ratings from text. The Naive Bayes Classifer takes word vectors as input. 
+Here, we are builing a multinomial Naive Bayes Classifier from scratch to determine user ratings from text. Each review corresponds to 1 to 5 stars rating, where 1 being the worst rating and 5 being the best.
+
+
+# Confusion Matrix
+
+![matrix](https://user-images.githubusercontent.com/65237445/145256861-9b4793ec-3c1a-40bd-b130-fc9f9ba19569.PNG)
+
+
+
