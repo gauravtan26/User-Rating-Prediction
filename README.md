@@ -13,8 +13,7 @@ Read about the algorithm from [here](https://www.upgrad.com/blog/multinomial-nai
 The dataset for this problem is a subset of the Yelp dataset and has been obtained from [here](https://www.yelp.com/dataset).
 
 ## Confusion Matrix
-
-![matrix](https://user-images.githubusercontent.com/65237445/145256861-9b4793ec-3c1a-40bd-b130-fc9f9ba19569.PNG)
+<img src="https://user-images.githubusercontent.com/65237445/145256861-9b4793ec-3c1a-40bd-b130-fc9f9ba19569.PNG" width="300" height = "300">
 
 
 
